@@ -1,0 +1,10 @@
+N=5
+inputdata_wc=src/input_text_wc.txt
+outputdata_wc=final_milestone_files/finalresult_wc.txt
+intermediate_wc=intermediate_wc.txt
+outputdata_wl=finalresult_wl.txt
+intermediate_wl=intermediate_wl.txt
+inputdata_mm=src/temperatures_t.csv
+outputdata_mm=finalresult_mm.txt
+intermediate_mm=src/intermediate_mm.txt
+
